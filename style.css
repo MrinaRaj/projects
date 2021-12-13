@@ -1,0 +1,10 @@
+body
+{
+    text-align: center;
+    font-size: 64px;
+    color:white;
+    background-color: bisque;
+    padding: 100px;
+    max-width: 1500px;
+    font-family: 'Great Vibes', cursive;
+}
